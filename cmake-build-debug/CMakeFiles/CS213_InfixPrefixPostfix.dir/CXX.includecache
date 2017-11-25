@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Aaron Carl/Desktop/CS213 Advance Data Structures and Algorithms/CS213_InfixPrefixPostfix/main.cpp
+iostream
+-
+
